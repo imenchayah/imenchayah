@@ -33,7 +33,7 @@
 ---
 ### 🛠️ Languages & Tools
 <p align="center">
-<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="28"/></a>
+<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="38"/></a>
 <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="28"/></a>
 <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="28"/></a>
 <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28"/></a>
@@ -52,10 +52,7 @@
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/></a>
 <a href="https://www.w3schools.com/c/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/></a>
 </p>
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=imenchayah&show_icons=true&theme=radical" width="400" />
-</p>
+
 
 
 
