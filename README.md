@@ -48,10 +48,10 @@
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/></a>
 <a href="https://www.w3schools.com/c/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/></a>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Développeuse+Full+Stack;Étudiante+en+Génie+Informatique;Passionnée+par+le+Web+et+le+Mobile;Toujours+à+la+recherche+de+nouveaux+défis" alt="Typing SVG" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 <p align="center">✨ Merci pour votre visite ! N'hésitez pas à me contacter ✨</p>
