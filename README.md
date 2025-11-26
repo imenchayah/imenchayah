@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/social-light.svg" height="120" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F75C7E&text=Welcome%20!&fontSize=50&fontColor=fff" />
 </p>
 
 
