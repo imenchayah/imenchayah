@@ -56,7 +56,7 @@
 
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=imenchayah&theme=react-dark&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imenchayah&layout=compact&theme=radical" />
 </p>
 
 
