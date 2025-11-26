@@ -49,7 +49,7 @@
 <a href="https://www.w3schools.com/c/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/></a>
 </p>
 <p align="center">
-  <img src="TON_LIEN_IMAGE" alt="banner" />
+  <img src="https://komarev.com/ghpvc/?username=imenchayah&label=Profile%20views&color=0e75b6&style=flat" alt="imenchayah" />
 </p>
 
 ---
