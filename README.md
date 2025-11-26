@@ -55,6 +55,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4d4dff&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Imen%20Chayah&fontSize=40&fontColor=fff" />
+</p>
 
 
 
