@@ -51,10 +51,11 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
-## 🧩 Technologies Favorites
-![Angular](https://img.shields.io/badge/-Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imenchayah&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</p>
+
 
 
 
