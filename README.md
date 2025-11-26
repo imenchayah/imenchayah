@@ -56,7 +56,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imenchayah&layout=compact&theme=radical" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-neon.svg" />
 </p>
 
 
