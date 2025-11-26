@@ -49,15 +49,13 @@
 <a href="https://www.w3schools.com/c/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/></a>
 </p>
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4d4dff&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F75C7E&text=Welcome%20!&fontSize=50&fontColor=fff" />
-</p>
 
 
 
