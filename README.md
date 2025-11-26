@@ -1,5 +1,5 @@
 # Hi 👋, I'm Imen Chayah  
-💻 Développeuse Tunisienne — Passionnée par le Web, le Mobile et le Backend  
+💻 Développeuse Tunisienne
 
 ## 🌐 Connect with me  
 <p align="center"> 
