@@ -49,5 +49,10 @@
 <a href="https://www.w3schools.com/c/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/></a>
 </p>
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imenchayah&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imenchayah&layout=compact&theme=radical" height="180">
+</p>
 
 
