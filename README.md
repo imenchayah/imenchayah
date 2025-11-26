@@ -47,29 +47,7 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=imenchayah&theme=shadow_green&hide_border=false" height="180"/> 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imenchayah&theme=shadow_green&hide_border=false" height="180"/> 
-</p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imenchayah&theme=shadow_green&layout=compact" height="160"/> 
-</p>
-
----
-
-## ✍️ Dev Quote  
-<p align="center"> 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> 
-</p>
-
----
-
-## 🔝 Top Contributed Repo  
-<p align="center"> 
-  <img src="https://github-contributor-stats.vercel.app/api?username=imenchayah&limit=5&theme=dark&combine_all_yearly_contributions=true"/> 
-</p>
 
 <p align="center"> 
   <img src="https://visitcount.itsvg.in/api?id=imenchayah&icon=0&color=0"/> 
