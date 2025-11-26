@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Développeuse+Full+Stack;Étudiante+en+Génie+Informatique;Passionnée+par+le+Web+et+le+Mobile;Toujours+à+la+recherche+de+nouveaux+défis" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/social-light.svg" height="120" />
 </p>
 
 
