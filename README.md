@@ -56,8 +56,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Imen%20Chayah&fontSize=40&fontColor=fff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Développeuse+Full+Stack;Étudiante+en+Génie+Informatique;Passionnée+par+le+Web+et+le+Mobile;Toujours+à+la+recherche+de+nouveaux+défis" />
 </p>
+
 
 
 
