@@ -48,6 +48,9 @@
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/></a>
 <a href="https://www.w3schools.com/c/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/></a>
 </p>
+<p align="center">
+  <img src="TON_LIEN_IMAGE" alt="banner" />
+</p>
 
 ---
 <p align="center">✨ Merci pour votre visite ! N'hésitez pas à me contacter ✨</p>
