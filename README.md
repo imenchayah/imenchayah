@@ -51,10 +51,10 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imenchayah&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4d4dff&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
+
 
 
 
