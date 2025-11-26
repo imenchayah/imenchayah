@@ -55,7 +55,10 @@
 
 
 
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imenchayah/imenchayah/output/pacman-contribution-graph.svg">
+</p>
+
 
 
 ---
