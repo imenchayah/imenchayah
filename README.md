@@ -56,10 +56,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-transparent.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" />
 </p>
-
-
 
 
 
